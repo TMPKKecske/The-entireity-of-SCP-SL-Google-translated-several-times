@@ -1,0 +1,7 @@
+Press the arrows ...
+Move Up / Down \n  Select Right \n  Left Left
+[var_name] \n  \n  ammunition size: [var_atype] \n  ammunition reserve: [var_ares]\nAmmunition capacity: [var_mag]\n\nmaximum damage: [var_maxdmg] \n  actual damage: [var_effdmg] \n  fire rate: [var_sps] \n  \n  customizable: [var_custs] \n  \n  Right-click to remove ammunition
+Cancel [var_nom] \n Use the power buttons to change the amount. \n  Legal key to scrapping. \n The left button returns.
+Not enough ammo ([var_nom]). \n Link key to return.
+buy
+Other

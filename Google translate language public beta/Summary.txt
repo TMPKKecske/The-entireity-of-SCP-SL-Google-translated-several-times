@@ -1,0 +1,17 @@
+The tour is over!
+SCP win
+MTF win
+Win for D-Class staff.
+books
+People [summary_scpfrags] were killed.
+The threat is gone and the place is safe again.
+The security of the Constitution is infinite.
+He won on both sides, but two of the money was lost. The winner made no decision.
+[summary_d_escaped] Class-D staff flee
+[summary_s_escaped] Searched above
+Alpha Warhead defaults to [summary_warhead_kills].
+Alpha Warhead did not fly in this orbit.
+This action was [summary_round_minutes] minutes [summary_round_seconds] seconds.
+[summary_scp_terminated] SCP model
+The next round starts with [summary_next_round_countdown] seconds.
+[summary_damages] deals with crime and [summary_kills] kills people.

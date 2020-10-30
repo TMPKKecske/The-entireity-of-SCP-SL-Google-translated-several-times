@@ -1,0 +1,36 @@
+<size=80> Kicked </size> \n The server forcibly closed the connection. \n  <size=26> \n Your administrator may temporarily disable \n  or not meet server requirements (e.g. Steam connection). \n To temporarily disable, Developer <b> is not responsible </b>. \n  </size>
+<size=80> No connection </size> \n The specified host is not available.
+<size=80> No connection </size> \n The specified connection ID does not exist.
+<size=80> No connection </size> \n The specified channel does not exist.
+<size=80> No connection </size> \n The server is full.
+<size=80> No connection </size> \n If an illegal packet was received.
+<size=80> No connection </size> \n Connection lost (timeout).
+<size=80> No connection </size> \n Connection lost (timeout).
+<size=80> No connection </size> \n This operation is not supported.
+<size=80> No connection </size> \n Version is not compatible.
+<size=80> No connection </size> \n The server settings are incorrect.
+<size=80> No connection </size> \n The address was invalid or could not be resolved.
+<size=80> Connected </size> \n Unexpected problem encountered!
+<size=80> Please wait </size> \n  <size=35> Connecting ... </size>
+<size=80> Restart </size> \n  <size=35> Restart Circle ... </size>
+<size=80> Please wait </size> \n  <size=35> Loading tutorials ... </size>
+<size=80> Compatible version </size> \n The version of the game is different from the server \n  (You - [your]; Server - [server])
+<size=80> Connected </size> \n  <size=35> Loading map ... </size>
+<size=35> Loading map ... </size>
+<size=80> No connection </size> \n The server encountered an unknown error.
+<size=80> No connection </size> \n This server requires a central server authentication.
+<size=80> No connection </size> \n This server has no whitelists.
+<size=80> Connected </size> \n  You are a global ban.
+<size=80> Connected </size> \n  You are a global ban. \n Okay: [ok]
+<size=80> No connection </size> \n Do not disable on server.
+<size=80> No connection </size> \n Do not disable on server. \n BAN deadline: [date] [time]
+<size=80> No connection </size> \n The authentication token has expired. \n Invalid time or time zone set on server. \n Contact the server administrator.
+<size=80> No connection </size> \n Consecutive connections are limited. Please try again in a few seconds.
+<size=80> No connection </size> \n The server does not accept connections in your region. \n The server name or information may contain details.
+<size=80> No connection </size> \n The server mod kicked up. \n Reason: [ok] \n This is a server mod, not a game function. \n  Please contact your server administrator for more details.
+<size=80> No connection </size> \n The authentication token was rejected by the server. \n Restart the game or contact Studio Technical Support.
+<size=80> No connection </size> \n Do not disable on server. \n Okay: [ok]
+<size=80> No connection </size> \n Do not disable on server. \n BAN deadline: [date] [time] \n  reason: [ok]
+<size=80> Please wait </size> \n Processing server security check ...
+<size=80> No connection </size> \n The server security check process failed.
+<size=80> No connection </size> \n The server security validation process is too slow for the server. \n Please try again or contact the server administrator.

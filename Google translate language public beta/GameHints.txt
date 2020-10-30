@@ -1,0 +1,6 @@
+<color=red> access denied </color>
+<color=yellow> [type] </color> limited ammonia (<color=yellow> [max_type_count] shots</color>)
+<b> Already </b> <color=yellow>[type] ammonia</color> has already been submitted (<color=yellow>[max_type_count]</color>)
+You have reached the copyright limit for <color=yellow> [type] </color> (<color=yellow>[max_type_count]</color>).
+<b> You already have </b> </b> <color=yellow> [type] </color> copyright (<color=yellow>[max_type_count]</color>)
+Up to one <color=yellow>[max_item_count]</color> can be used.

@@ -1,0 +1,5 @@
+i death
+Click the {KEYBINDING_INTERACTION} button and set the <color=yellow>weapon control</color>.
+Click the {KEYBINDING_INTERACTION} button and remove the <color=yellow>weapon type</color>.
+This <color=yellow>workstation</color> is connected to the<color=yellow>weapon terminal</color>
+<color=yellow>Action Zone</color> requires the use of the <color=yellow>weapon control terminal</color>.

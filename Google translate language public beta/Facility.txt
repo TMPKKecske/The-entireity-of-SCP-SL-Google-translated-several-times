@@ -1,0 +1,36 @@
+sound volume
+Yes
+six
+SCP-106 Recovery Procedure\nManual execution
+ensure regression
+overview
+clearing
+in stock
+light intensity
+configuration
+Section
+ALPHA WARHEAD should not be used
+Access denied
+Speak louder
+The stock is full
+Mouse sensitivity
+hacker
+takes ...
+Increasing the brightness can <b>ruin the mood of the game </b>. \n Today to keep it to a minimum. \n  <b> It is recommended to use the default settings.</b>
+[1] Open/close the door\n[2] Lock the door*\n\n*Use the door lock function
+SCP-079 closed the door
+FULL SCREEN OPERATION
+Can you download the server?
+Default. Complete list of settings in the menu.
+Future players
+overview
+To continue
+Main volume
+related
+He left as a researcher and joined the MTF.
+As a D-Class personnel, he escaped the chaos uprising.
+you
+Escape time: [escape_minutes] minutes [escape_seconds] seconds
+Use the [time] to use the [item] again.
+Press <color=yellow><b>F1</b></color> for help.
+Prisoner\n<size=40>Follow instructions or ask for help from your teammates</size>

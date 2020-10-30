@@ -1,0 +1,81 @@
+News
+server
+configuration
+Cola
+Social media
+Clean
+beautiful
+officer
+History
+friend
+Find the server
+Create a server
+back
+Direct connection
+recovery
+Hide games without attention
+Hide full results
+This is not an empty list
+Video
+Guta
+Surgery
+Play, play
+others
+Window status
+Unique full screen
+Endless window
+Large window
+Window
+Synchronization
+Common border tariff
+The street
+Quality of construction
+Maximum blood
+Boil
+shadow solution
+shading
+Blurred movement
+Improve the color
+Anti-bay
+Method of drawing the light source
+Finish
+Sound effect
+Tough conversation
+BGM menu
+Interface capacity
+Menu theme
+Hide faster reports
+swing result
+Turn the sprint on and off
+Show the correct POI
+Abundant presence
+Mark the gym
+It has a switch
+SCP-079 - Enable or disable camera mode
+Sending process SCP-07
+Language
+Index
+contact
+back
+This change must begin again. ? n Do you want to restart the menu?
+Yes
+No.
+Are you sure you want to leave?
+Screen resolution
+Hide IP
+Hello back, {username}!
+deposit
+During authentication
+Connection to the central server ...
+Link <Color=Green>created</color>
+Connection failed <color=red>(check console for more information)</color>
+Steam authentication failed <see=red>(see console for more information)</color>
+<color=red>authentication failed (see console for more information)</color>
+invalid
+{0 seconds
+The time when the body cleans itself automatically
+See the steam profile
+This allows the player to view the Steam profile by clicking on the playlist icon.
+Do not follow (DNT)
+Secure use of server information (IP address, user identification) is prohibited.
+Graphics API

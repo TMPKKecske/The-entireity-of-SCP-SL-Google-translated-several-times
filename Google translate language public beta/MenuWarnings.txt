@@ -1,0 +1,4 @@
+Attention
+understand
+<b>Intel Integrated Graphics</b> detected but <b>not supported</b>. \n  <b> <b> It is recommended to use a non-built-in graphics card. </b> \n  In the current environment, the game crashes <b>occasionally</b>.
+No voice chat system update found. If Windows is not completely up to date, the game will not work properly. If you continue to experience this issue, please contact our technical support team.
