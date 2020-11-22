@@ -7,4 +7,4 @@
 5. Try to not get brain cancer.
 
 This mod was made by TMPKKecske. 
-If you want to report bugs please report it to my email: angrygabor2@gmail.com
+If you want to report bugs please dm me on discord: TMPKKecske#9536
